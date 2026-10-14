@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Databases / runtime artifacts
+*.db
+
+# OS clutter
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/

@@ -1,0 +1,13 @@
+services:
+  web-login:
+    build: ./targets/web-login
+    networks:
+      - arena
+      - edge
+    ports:
+      - "127.0.0.1:8001:5000"
+
+networks:
+  arena:
+    internal: true
+  edge:

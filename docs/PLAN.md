@@ -6,6 +6,10 @@ attacking a target and defending against that same attack._
 
 Owners: Henry & Ryan · Repo: `Red-Blue`
 
+**This is a living document.** To change the plan, edit this file on your branch and open a
+pull request into `main`. The other person must approve it, and the reason for the change goes in
+the change log at the bottom. Nothing in the plan changes without both of us agreeing.
+
 ---
 
 ## 1. Product summary
@@ -263,3 +267,13 @@ a proven foundation.
 3. **First skill's exact 3–4 levels** — write them out concretely as the first schema test.
 4. **Difficulty placement** — a short quiz to place users, or self-select? (MVP: self-select.)
 5. **Hosting choices** — Vercel + Supabase vs Neon, confirm.
+
+---
+
+## 15. Change log
+
+Add a line here for every change to the plan (newest first).
+
+| Date | Who | Change | Why |
+|------|-----|--------|-----|
+| 2026-10-15 | Ryan | Initial plan (v1) added to the repo | Starting point |
